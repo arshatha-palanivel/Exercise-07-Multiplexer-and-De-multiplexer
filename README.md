@@ -123,3 +123,4 @@ endmodule
 
 # RESULTS 
 Hence 4x1 Multiplexer and 1x4 Demultiplexer is been implemented and verified using verilog programming and its output are validated.
+
